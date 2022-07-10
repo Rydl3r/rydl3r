@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanya</h1>
 <h3 align="center">I'm a Frontend Web Developer, currently doing different freelance jobs, interested in everything interesting you can offer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rydl3r&label=Profile%20views&color=0e75b6&style=flat" alt="rydl3r" /> </p>
-
 - 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01558c889239aa427e)
 
 - 🌱 I’m currently learning **React, NextJS**
