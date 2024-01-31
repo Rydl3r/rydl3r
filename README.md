@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rydler/](https://www.linkedin.com/in/rydler/)
 
-- ⚡ Fun fact **Did you know that the term "bug" to describe a computer glitch originated in 1947 when a moth got trapped in a relay of the Harvard Mark II computer? Technicians literally "debugged" the machine by removing the moth, and ever since then, "bug" has been a common term in programming for any kind of flaw in code.**
+- ⚡ Fun fact: **Did you know that the term "bug" to describe a computer glitch originated in 1947 when a moth got trapped in a relay of the Harvard Mark II computer? Technicians literally "debugged" the machine by removing the moth, and ever since then, "bug" has been a common term in programming for any kind of flaw in code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
