@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
 <h3 align="center">I'm a frontend developer with a passion for crafting immersive digital experiences. With a keen eye for design and a love for clean, efficient code, I specialize in bringing websites and applications to life. Whether it's through responsive layouts, captivating animations, or seamless user interactions, I thrive on turning creative visions into functional realities. Let's collaborate and build something extraordinary together!</h3>
 
-- 🔭 I’m currently working on [Uspacy](https://uspacy.com/)
+- 🔭 I’m currently working in [GlobalLogic](https://www.globallogic.com/)
 
 - 🌱 I’m currently learning **SSR Frameworks**
 
