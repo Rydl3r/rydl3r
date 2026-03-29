@@ -1,23 +1,42 @@
-Building the web, one pixel at a time 🚀
+### Hey, I'm Ivan 👋
 
-I'm Ivan, a frontend developer who's spent the last 4+ years turning coffee into code and ideas into interactive experiences. Currently crafting digital solutions at GlobalLogic, where I get to work on projects that actually matter.
+Frontend developer. Warsaw-based. Coffee-powered. I've spent 5+ years turning *"why does this feel so clunky?"* into *"oh wow, this actually works great."*
 
-What I bring to the table:
+---
 
-• 4 years of hardcore React development (with TypeScript, because life's too short for runtime errors)
+### 🛠️ Things I've shipped
 
-• Experience scaling from scrappy freelance projects to enterprise-level platforms
+**💻 Gaming platform @ HumanSpark**
+Building pixel-perfect interfaces for a product that has to look and work flawlessly across every screen size, browser, and network condition. Turns out "it works on my machine" is not an acceptable answer when your users are on a 4K monitor in one tab and a 5-year-old Android phone in another.
 
-• A knack for making complex systems actually user-friendly and intuitive
+**💳 Fintech @ GlobalLogic**
+Secure payment interfaces for a platform used by **550,000+ businesses**. Also dragged a legacy JSP/Backbone codebase into the React era - it did not go quietly.
 
-• The ability to collaborate seamlessly with designers, backend devs, and product teams
+**🏢 Collaboration platform @ Uspacy**
+Built a full suite of microservices - CRM, Chat, Task management, Telephony. Basically recreated an entire office inside a browser.
 
-My tech playground: React, Next.js, TypeScript, Redux, GraphQL, MUI, Tailwind, and whatever new framework the JavaScript gods decide to bless us with next week.
+**🌾 Agriculture system @ Fast and Curious**
+GIS-based platform where farmers visualize and monitor land plots on a map. Turns out Mapbox is really cool when you're not just centering it on some city.
 
-From my freelance days to building international platforms, I've learned that great frontend development isn't just about making things look pretty - it's about creating experiences that users actually want to use.
+**🌍 Freelance (international clients)**
+Where I learned two things: how to write clean code, and how to write a very polite email explaining why something will take longer than expected.
 
-Computer Science graduate from National Aviation University, with a passion for continuous learning and staying ahead of the tech curve 🎓
+---
 
-Always up for connecting with fellow developers, discussing the latest in frontend tech, or debating whether CSS-in-JS is the future or just a phase we're going through.
+### ⚙️ My toolkit
 
-Let's build something awesome together!
+`React` `Next.js` `TypeScript` `Redux` `GraphQL` `Tailwind` `MUI` `Jest` `Cypress`
+
+...plus whatever the JavaScript gods decided to ship last Tuesday.
+
+---
+
+### 🎓 A bit more about me
+
+CS grad from National Aviation University. Firm believer that great frontend is **invisible** - users should just *get things done*, not notice your interface.
+
+Always up for chatting about frontend architecture, debating CSS-in-JS, or bonding over legacy codebase horror stories.
+
+---
+
+*Let's build something worth using.* 🚀
