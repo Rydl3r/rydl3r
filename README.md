@@ -25,7 +25,7 @@ Where I learned two things: how to write clean code, and how to write a very pol
 
 ### ⚙️ My toolkit
 
-`React` `Next.js` `TypeScript` `Redux` `GraphQL` `Tailwind` `MUI` `Jest` `Cypress`
+`React` `Next.js` `Vue.js` `TypeScript` `Redux` `Tanstack Query` `GraphQL` `Tailwind` `MUI` `Jest` `Cypress` `and so on, and so forth...`
 
 ...plus whatever the JavaScript gods decided to ship last Tuesday.
 
