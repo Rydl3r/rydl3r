@@ -6,6 +6,9 @@ Frontend developer. Warsaw-based. Coffee-powered. I've spent 5+ years turning *"
 
 ### 🛠️ Things I've shipped
 
+**🛰️ Aerial imagery @ Nearmap**
+Building nearmap.com - the global home of Nearmap's aerial imagery and AI products, live across the US, Australia and New Zealand. Led two platform migrations at once: **Next.js 14 → 16** and the entire CI/CD pipeline from **GitLab to GitHub Actions** - zero downtime, smaller bundle, and a pipeline nobody is afraid to touch anymore. Apparently I can't stay away from maps - this time they're just shot from a plane.
+
 **💻 Gaming platform @ HumanSpark**
 Building pixel-perfect interfaces for a product that has to look and work flawlessly across every screen size, browser, and network condition. Turns out "it works on my machine" is not an acceptable answer when your users are on a 4K monitor in one tab and a 5-year-old Android phone in another.
 
@@ -25,7 +28,7 @@ Where I learned two things: how to write clean code, and how to write a very pol
 
 ### ⚙️ My toolkit
 
-`React` `Next.js` `Vue.js` `TypeScript` `Redux` `Tanstack Query` `GraphQL` `Tailwind` `MUI` `Jest` `Cypress` `and so on, and so forth...`
+`React` `Next.js` `Angular` `Vue.js` `TypeScript` `Redux` `Tanstack Query` `GraphQL` `Tailwind` `MUI` `Jest` `Cypress` `Playwright` `GitHub Actions` `AWS` `and so on, and so forth...`
 
 ...plus whatever the JavaScript gods decided to ship last Tuesday.
 
@@ -33,7 +36,7 @@ Where I learned two things: how to write clean code, and how to write a very pol
 
 ### 🎓 A bit more about me
 
-CS grad from National Aviation University. Firm believer that great frontend is **invisible** - users should just *get things done*, not notice your interface.
+CS grad from National Aviation University. Firm believer that great frontend is **invisible** - users should just *get things done*, not notice your interface. Same goes for CI/CD: the best pipeline is the one you forget exists.
 
 Always up for chatting about frontend architecture, debating CSS-in-JS, or bonding over legacy codebase horror stories.
 
